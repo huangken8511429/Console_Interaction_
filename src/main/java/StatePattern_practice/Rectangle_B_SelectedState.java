@@ -1,4 +1,4 @@
-package ConsoleInteraction;
+package StatePattern_practice;
 
 public class Rectangle_B_SelectedState implements State{
     private final Module module;

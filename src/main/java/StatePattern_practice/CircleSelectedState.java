@@ -1,4 +1,4 @@
-package ConsoleInteraction;
+package StatePattern_practice;
 
 public class CircleSelectedState implements State {
     private final Module module;

@@ -1,4 +1,4 @@
-package ConsoleInteraction;
+package StatePattern_practice;
 
 public interface State {
    String print();

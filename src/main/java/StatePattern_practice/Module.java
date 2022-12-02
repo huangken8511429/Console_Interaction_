@@ -1,6 +1,4 @@
-package ConsoleInteraction;
-
-import org.springframework.boot.autoconfigure.condition.AllNestedConditions;
+package StatePattern_practice;
 
 import java.util.Scanner;
 

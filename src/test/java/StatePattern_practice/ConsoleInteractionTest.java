@@ -1,4 +1,4 @@
-package ConsoleInteraction;
+package StatePattern_practice;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
